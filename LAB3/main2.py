@@ -12,6 +12,8 @@ from box_blur import BoxBlurFilter
 from gaussian_blur import GaussianBlurFilter
 from median_filter import MedianFilter
 from sobel_filter import SobelFilter
+from unsharp_mask import UnsharpMaskFilter
+from sketch_filter import SketchFilter
 
 
 class ImageFilterApp:
@@ -200,6 +202,29 @@ class ImageFilterApp:
         self.median_label.pack(anchor='w')
         ttk.Button(median_frame, text="Применить Median Filter", 
                   command=lambda: self._apply_filter('median')).pack(fill='x', pady=5)
+        
+
+        # Unsharp Mask
+        sharp_frame = ttk.LabelFrame(scrollable_frame, text="Unsharp Mask (резкость)", padding="5")
+        sharp_frame.pack(fill='x', pady=5)
+        
+        self.sharp_sigma_var = tk.DoubleVar(value=1.0)
+        self.sharp_amount_var = tk.DoubleVar(value=1.5)
+        
+        ttk.Label(sharp_frame, text="Sigma (размытие):").pack(anchor='w')
+        ttk.Scale(sharp_frame, from_=0.5, to=3.0, variable=self.sharp_sigma_var, orient='horizontal').pack(fill='x')
+        ttk.Label(sharp_frame, textvariable=tk.StringVar(value="1.0"), 
+                 text="1.0").pack(anchor='w')  
+        
+        ttk.Label(sharp_frame, text="Сила:").pack(anchor='w')
+        ttk.Scale(sharp_frame, from_=0.5, to=3.0, variable=self.sharp_amount_var, orient='horizontal').pack(fill='x')
+        
+        ttk.Button(sharp_frame, text="Применить резкость", 
+                  command=lambda: self._apply_filter('unsharp')).pack(fill='x', pady=5)
+
+        # Sketch
+        ttk.Button(scrollable_frame, text="🎨 Применить эскиз", 
+                  command=lambda: self._apply_filter('sketch')).pack(fill='x', pady=5)
         
         # Sobel Operator
         sobel_frame = ttk.LabelFrame(scrollable_frame, text="Sobel Operator", padding="5")
@@ -602,6 +627,14 @@ class ImageFilterApp:
             elif filter_type == 'sobel':
                 direction = self.sobel_direction_var.get()
                 self.current_filter = SobelFilter(direction=direction)
+
+            elif filter_type == 'unsharp':
+                sigma = self.sharp_sigma_var.get()
+                amount = self.sharp_amount_var.get()
+                self.current_filter = UnsharpMaskFilter(kernel_size=5, sigma=sigma, amount=amount)
+
+            elif filter_type == 'sketch':
+                self.current_filter = SketchFilter(blur_sigma=5.0, blur_kernel=21)
             
             # Применяем фильтр в отдельном потоке
             self.processing = True
