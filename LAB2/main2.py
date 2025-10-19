@@ -5,46 +5,37 @@ def demonstrate_fourier_analysis():
     print("ЛАБОРАТОРНАЯ РАБОТА: АНАЛИЗ ФУРЬЕ СИГНАЛОВ")
     print("=" * 80)
     
-    generator = SignalGenerator(sample_rate=8000)  # Уменьшенная частота дискретизации
+    generator = SignalGenerator(sample_rate=8000) 
     analyzer = FourierAnalyzer()
-    
-    # 1. Анализ простых сигналов
+
     print("\n1. Анализ простых сигналов")
     print("-" * 40)
     
-    duration = 0.5  # секунд
-    
-    # Синусоидальный сигнал
+    duration = 0.5  
+   
     print("Анализ синусоидального сигнала (200 Гц)...")
     t, sine_signal = generator.generate_signal(duration, 200, signal_type='sine')
     
-    # Сравнение ДПФ и БПФ для короткого сигнала
-    t_short = t[:500]  # Короткий сигнал для прямого ДПФ
+
+    t_short = t[:500]  
     sine_short = sine_signal[:500]
     
     print("Прямое ДПФ:")
     result_dft = analyzer.analyze_spectrum(t_short, sine_short, method='dft', 
                                          title="Синусоидальный сигнал (200 Гц) - Прямое ДПФ")
     
-    print("Собственное БПФ:")
-    result_fft = analyzer.analyze_spectrum(t, sine_signal, method='fft', 
-                                         title="Синусоидальный сигнал (200 Гц) - Собственное БПФ")
+    print("БПФ")
+    result_scipy_fft = analyzer.analyze_spectrum(t, sine_signal, method='fft', 
+                                               title="Синусоидальный сигнал (200 Гц) - БПФ")
     
-    print("Библиотечное БПФ (scipy):")
-    result_scipy_fft = analyzer.analyze_spectrum(t, sine_signal, method='scipy_fft', 
-                                               title="Синусоидальный сигнал (200 Гц) - Библиотечное БПФ")
+   
+    print(f"Максимальная ошибка БПФ: {np.max(np.abs(result_scipy_fft['error'])):.2e}")
     
-    # Проверка точности БПФ
-    print(f"Максимальная ошибка собственного БПФ: {np.max(np.abs(result_fft['error'])):.2e}")
-    print(f"Максимальная ошибка библиотечного БПФ: {np.max(np.abs(result_scipy_fft['error'])):.2e}")
-    
-    # Импульсный сигнал
     print("\nАнализ импульсного сигнала (150 Гц)...")
     t, pulse_signal = generator.generate_signal(duration, 150, signal_type='pulse', duty_cycle=0.3)
     analyzer.analyze_spectrum(t, pulse_signal, method='fft', 
                             title="Импульсный сигнал (150 Гц, скважность 0.3)")
     
-    # Треугольный сигнал
     print("\nАнализ треугольного сигнала (100 Гц)...")
     t, triangle_signal = generator.generate_signal(duration, 100, signal_type='triangle')
     analyzer.analyze_spectrum(t, triangle_signal, method='fft', 
@@ -208,12 +199,12 @@ class SignalGenerator:
         t = np.linspace(0, duration, int(duration * self.sample_rate))
         n_array = np.arange(len(t))
         
-        # Модулирующий сигнал
+
         mod_phi = self.phase_array(mod_freq, 0, n_array, self.sample_rate)
         mod_signal = self.waveform(mod_amp, mod_phi, mod_type)
         
         if modulation_type == 'FM':
-            # Частотная модуляция
+   
             freq_deviation = mod_freq * 50
             instantaneous_freq = carrier_freq + freq_deviation * mod_signal
             carrier_phi = np.mod(
@@ -221,16 +212,16 @@ class SignalGenerator:
                 2 * np.pi
             )
         else:
-            # Несущий сигнал для AM
+     
             carrier_phi = self.phase_array(carrier_freq, 0, n_array, self.sample_rate)
         
         carrier_signal = self.waveform(carrier_amp, carrier_phi, carrier_type)
         
         if modulation_type == 'AM':
-            # Амплитудная модуляция
+         
             modulated_signal = carrier_signal * (1 + mod_signal)
         else:
-            # FM - сигнал уже модулирован по частоте
+          
             modulated_signal = carrier_signal
         
         return t, modulated_signal, carrier_signal, mod_signal
@@ -294,7 +285,7 @@ class FourierAnalyzer:
     
     def ifft_custom(self, spectrum):
         """Обратное быстрое преобразование Фурье"""
-        # Используем свойство: IFFT(X) = conj(FFT(conj(X))) / N
+        
         N = len(spectrum)
         conjugated = np.conj(spectrum)
         fft_result = self.fft_custom(conjugated)
@@ -316,43 +307,37 @@ class FourierAnalyzer:
         sample_rate = 1.0 / dt
         N = len(signal)
         
-        # Выбор метода преобразования
         if method == 'dft':
             if N > 1000:
                 print(f"Сигнал слишком длинный ({N} точек) для прямого ДПФ. Используется БПФ.")
-                spectrum = self.fft_custom(signal.astype(complex))
-                reconstructed = np.real(self.ifft_custom(spectrum))
-                method_name = "Собственное БПФ"
+                spectrum = fft(signal)
+                reconstructed = np.real(ifft(spectrum))
+                method_name = "БПФ"
             else:
                 spectrum = self.dft_direct(signal)
                 reconstructed = np.real(self.idft_direct(spectrum))
                 method_name = "Прямое ДПФ"
         elif method == 'fft':
-            spectrum = self.fft_custom(signal.astype(complex))
-            reconstructed = np.real(self.ifft_custom(spectrum))
-            method_name = "Собственное БПФ"
-        elif method == 'scipy_fft':
             spectrum = fft(signal)
             reconstructed = np.real(ifft(spectrum))
-            method_name = "Библиотечное БПФ (scipy)"
+            method_name = "БПФ"
         else:
-            raise ValueError("Неподдерживаемый метод. Используйте 'dft', 'fft' или 'scipy_fft'")
+            raise ValueError("Неподдерживаемый метод. Используйте 'dft', 'fft'")
         
-        # Частотная сетка
-        if method == 'scipy_fft':
+        
+        if method == 'fft':
             freqs = fftfreq(N, dt)
         else:
             freqs = self.generate_frequency_array(N, sample_rate)
         
-        # Амплитудный и фазовый спектры
+        
         amplitude_spectrum = np.abs(spectrum)
         phase_spectrum = np.angle(spectrum)
         
-        # Построение графиков
+  
         fig, axes = plt.subplots(2, 2, figsize=(15, 10))
         fig.suptitle(f"{title} ({method_name})", fontsize=14, fontweight='bold')
         
-        # Исходный и восстановленный сигналы
         axes[0, 0].plot(t, signal, 'b-', label='Исходный сигнал', alpha=0.8, linewidth=2)
         axes[0, 0].plot(t, reconstructed, 'r--', label='Восстановленный сигнал', alpha=0.8, linewidth=1.5)
         axes[0, 0].set_xlabel('Время (с)')
@@ -361,7 +346,7 @@ class FourierAnalyzer:
         axes[0, 0].legend()
         axes[0, 0].grid(True, alpha=0.3)
         
-        # Амплитудный спектр
+  
         positive_freqs = freqs[:N//2]
         positive_amplitude = amplitude_spectrum[:N//2]
         axes[0, 1].plot(positive_freqs, positive_amplitude, 'g-', linewidth=1.5)
@@ -370,8 +355,7 @@ class FourierAnalyzer:
         axes[0, 1].set_title('Амплитудный спектр')
         axes[0, 1].grid(True, alpha=0.3)
         axes[0, 1].set_xlim(0, min(2000, max(positive_freqs)))
-        
-        # Фазовый спектр
+ 
         axes[1, 0].plot(positive_freqs, phase_spectrum[:N//2], 'm-', linewidth=1.5)
         axes[1, 0].set_xlabel('Частота (Гц)')
         axes[1, 0].set_ylabel('Фаза (рад)')
@@ -379,7 +363,7 @@ class FourierAnalyzer:
         axes[1, 0].grid(True, alpha=0.3)
         axes[1, 0].set_xlim(0, min(2000, max(positive_freqs)))
         
-        # Ошибка восстановления
+      
         error = signal - reconstructed
         axes[1, 1].plot(t, error, 'r-', linewidth=1)
         axes[1, 1].set_xlabel('Время (с)')
@@ -404,26 +388,24 @@ class FourierAnalyzer:
 
 def demonstrate_fourier_analysis():
     """Демонстрация анализа Фурье различных сигналов"""
-    
-    print("=" * 80)
-    print("ЛАБОРАТОРНАЯ РАБОТА: АНАЛИЗ ФУРЬЕ СИГНАЛОВ")
+
     print("=" * 80)
     
     generator = SignalGenerator(sample_rate=8000)
     analyzer = FourierAnalyzer()
     
-    # 1. Анализ простых сигналов
+
     print("\n1. Анализ простых сигналов")
     print("-" * 40)
     
-    duration = 0.5  # секунд
+    duration = 0.5  
     
-    # Синусоидальный сигнал
+
     print("Анализ синусоидального сигнала (200 Гц)...")
     t, sine_signal = generator.generate_signal(duration, 200, signal_type='sine')
     
-    # Сравнение ДПФ и БПФ для короткого сигнала
-    t_short = t[:500]  # Короткий сигнал для прямого ДПФ
+
+    t_short = t[:500]  
     sine_short = sine_signal[:500]
     
     print("Прямое ДПФ:")
@@ -432,39 +414,31 @@ def demonstrate_fourier_analysis():
     
     print("БПФ:")
     result_fft = analyzer.analyze_spectrum(t, sine_signal, method='fft', 
-                                         title="Синусоидальный сигнал (200 Гц) - БПФ")
-    
-    print("БПФ:")
-    result_fft = analyzer.analyze_spectrum(t, sine_signal, method='scipy_fft', 
                                          title="Синусоидальный сигнал (200 Гц) - Scipy БПФ")
     
-    # Импульсный сигнал
     print("\nАнализ импульсного сигнала (150 Гц)...")
     t, pulse_signal = generator.generate_signal(duration, 150, signal_type='pulse', duty_cycle=0.3)
     analyzer.analyze_spectrum(t, pulse_signal, title="Импульсный сигнал (150 Гц, скважность 0.3)")
     
-    # Треугольный сигнал
     print("\nАнализ треугольного сигнала (100 Гц)...")
     t, triangle_signal = generator.generate_signal(duration, 100, signal_type='triangle')
     analyzer.analyze_spectrum(t, triangle_signal, title="Треугольный сигнал (100 Гц)")
     
-    # Пилообразный сигнал
     print("\nАнализ пилообразного сигнала (120 Гц)...")
     t, sawtooth_signal = generator.generate_signal(duration, 120, signal_type='sawtooth')
     analyzer.analyze_spectrum(t, sawtooth_signal, title="Пилообразный сигнал (120 Гц)")
     
-    # 2. Анализ модулированных сигналов
     print("\n2. Анализ модулированных сигналов")
     print("-" * 40)
     
-    # AM модуляция
+
     print("AM модуляция (несущая 500 Гц, модулирующая 50 Гц)...")
     t, am_signal, carrier, mod = generator.generate_modulated_signal(
         duration, carrier_freq=500, mod_freq=50, modulation_type='AM'
     )
     analyzer.analyze_spectrum(t, am_signal, title="AM сигнал (500 Гц + 50 Гц)")
     
-    # FM модуляция
+
     print("\nFM модуляция (несущая 600 Гц, модулирующая 30 Гц)...")
     t, fm_signal, _, _ = generator.generate_modulated_signal(
         duration, carrier_freq=600, mod_freq=30, modulation_type='FM'

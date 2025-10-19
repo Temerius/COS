@@ -1,0 +1,2322 @@
+[
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 69,
+        "amplitude_norm": 2.173,
+        "duration": 0.3275,
+        "channel": 0,
+        "start_time": 0.0065
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 52,
+        "amplitude_norm": 1.638,
+        "duration": 0.1296,
+        "channel": 0,
+        "start_time": 0.3542
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 52,
+        "amplitude_norm": 1.638,
+        "duration": 0.1374,
+        "channel": 0,
+        "start_time": 0.515
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 53,
+        "amplitude_norm": 1.669,
+        "duration": 0.1374,
+        "channel": 0,
+        "start_time": 0.6836
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 52,
+        "amplitude_norm": 1.638,
+        "duration": 0.1315,
+        "channel": 0,
+        "start_time": 0.8522
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.3099,
+        "channel": 0,
+        "start_time": 1.015
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 67,
+        "amplitude_norm": 2.11,
+        "duration": 0.1556,
+        "channel": 0,
+        "start_time": 1.3451
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.1497,
+        "channel": 0,
+        "start_time": 1.5111
+    },
+    {
+        "note": "A1",
+        "midi_number": 33,
+        "frequency": 55.0,
+        "velocity": 63,
+        "amplitude_norm": 1.984,
+        "duration": 0.1497,
+        "channel": 0,
+        "start_time": 1.6712
+    },
+    {
+        "note": "A2",
+        "midi_number": 45,
+        "frequency": 110.0,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.3086,
+        "channel": 0,
+        "start_time": 1.6712
+    },
+    {
+        "note": "A1",
+        "midi_number": 33,
+        "frequency": 55.0,
+        "velocity": 63,
+        "amplitude_norm": 1.984,
+        "duration": 0.1582,
+        "channel": 0,
+        "start_time": 1.8314
+    },
+    {
+        "note": "D3",
+        "midi_number": 50,
+        "frequency": 146.83,
+        "velocity": 69,
+        "amplitude_norm": 2.173,
+        "duration": 0.3314,
+        "channel": 0,
+        "start_time": 2.0026
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 69,
+        "amplitude_norm": 2.173,
+        "duration": 0.3314,
+        "channel": 0,
+        "start_time": 2.0026
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 52,
+        "amplitude_norm": 1.638,
+        "duration": 0.1296,
+        "channel": 0,
+        "start_time": 2.3542
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 52,
+        "amplitude_norm": 1.638,
+        "duration": 0.1374,
+        "channel": 0,
+        "start_time": 2.515
+    },
+    {
+        "note": "E3",
+        "midi_number": 52,
+        "frequency": 164.81,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.3092,
+        "channel": 0,
+        "start_time": 2.3542
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 53,
+        "amplitude_norm": 1.669,
+        "duration": 0.1374,
+        "channel": 0,
+        "start_time": 2.6836
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 52,
+        "amplitude_norm": 1.638,
+        "duration": 0.1315,
+        "channel": 0,
+        "start_time": 2.8522
+    },
+    {
+        "note": "A3",
+        "midi_number": 57,
+        "frequency": 220.0,
+        "velocity": 65,
+        "amplitude_norm": 2.047,
+        "duration": 0.3112,
+        "channel": 0,
+        "start_time": 2.6836
+    },
+    {
+        "note": "D3",
+        "midi_number": 50,
+        "frequency": 146.83,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.153,
+        "channel": 0,
+        "start_time": 3.015
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.3099,
+        "channel": 0,
+        "start_time": 3.015
+    },
+    {
+        "note": "D3",
+        "midi_number": 50,
+        "frequency": 146.83,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.1562,
+        "channel": 0,
+        "start_time": 3.1784
+    },
+    {
+        "note": "E3",
+        "midi_number": 52,
+        "frequency": 164.81,
+        "velocity": 67,
+        "amplitude_norm": 2.11,
+        "duration": 0.1556,
+        "channel": 0,
+        "start_time": 3.345
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 67,
+        "amplitude_norm": 2.11,
+        "duration": 0.1556,
+        "channel": 0,
+        "start_time": 3.345
+    },
+    {
+        "note": "E3",
+        "midi_number": 52,
+        "frequency": 164.81,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.1497,
+        "channel": 0,
+        "start_time": 3.5111
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.1497,
+        "channel": 0,
+        "start_time": 3.5111
+    },
+    {
+        "note": "C3",
+        "midi_number": 48,
+        "frequency": 130.81,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.1497,
+        "channel": 0,
+        "start_time": 3.6712
+    },
+    {
+        "note": "A1",
+        "midi_number": 33,
+        "frequency": 55.0,
+        "velocity": 63,
+        "amplitude_norm": 1.984,
+        "duration": 0.1497,
+        "channel": 0,
+        "start_time": 3.6712
+    },
+    {
+        "note": "C3",
+        "midi_number": 48,
+        "frequency": 130.81,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.1582,
+        "channel": 0,
+        "start_time": 3.8314
+    },
+    {
+        "note": "A1",
+        "midi_number": 33,
+        "frequency": 55.0,
+        "velocity": 63,
+        "amplitude_norm": 1.984,
+        "duration": 0.1582,
+        "channel": 0,
+        "start_time": 3.8314
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 69,
+        "amplitude_norm": 2.173,
+        "duration": 0.3314,
+        "channel": 0,
+        "start_time": 4.0026
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 52,
+        "amplitude_norm": 1.638,
+        "duration": 0.1296,
+        "channel": 0,
+        "start_time": 4.3542
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 52,
+        "amplitude_norm": 1.638,
+        "duration": 0.1374,
+        "channel": 0,
+        "start_time": 4.515
+    },
+    {
+        "note": "D3",
+        "midi_number": 50,
+        "frequency": 146.83,
+        "velocity": 69,
+        "amplitude_norm": 2.173,
+        "duration": 0.6803,
+        "channel": 0,
+        "start_time": 4.0026
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 53,
+        "amplitude_norm": 1.669,
+        "duration": 0.1374,
+        "channel": 0,
+        "start_time": 4.6836
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 52,
+        "amplitude_norm": 1.638,
+        "duration": 0.1315,
+        "channel": 0,
+        "start_time": 4.8522
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.3099,
+        "channel": 0,
+        "start_time": 5.015
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 67,
+        "amplitude_norm": 2.11,
+        "duration": 0.1556,
+        "channel": 0,
+        "start_time": 5.345
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.1497,
+        "channel": 0,
+        "start_time": 5.5111
+    },
+    {
+        "note": "A1",
+        "midi_number": 33,
+        "frequency": 55.0,
+        "velocity": 63,
+        "amplitude_norm": 1.984,
+        "duration": 0.1497,
+        "channel": 0,
+        "start_time": 5.6712
+    },
+    {
+        "note": "A1",
+        "midi_number": 33,
+        "frequency": 55.0,
+        "velocity": 63,
+        "amplitude_norm": 1.984,
+        "duration": 0.1582,
+        "channel": 0,
+        "start_time": 5.8314
+    },
+    {
+        "note": "E3",
+        "midi_number": 52,
+        "frequency": 164.81,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.9844,
+        "channel": 0,
+        "start_time": 5.015
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 69,
+        "amplitude_norm": 2.173,
+        "duration": 0.3314,
+        "channel": 0,
+        "start_time": 6.0026
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 52,
+        "amplitude_norm": 1.638,
+        "duration": 0.1296,
+        "channel": 0,
+        "start_time": 6.3542
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 52,
+        "amplitude_norm": 1.638,
+        "duration": 0.1374,
+        "channel": 0,
+        "start_time": 6.515
+    },
+    {
+        "note": "A3",
+        "midi_number": 57,
+        "frequency": 220.0,
+        "velocity": 69,
+        "amplitude_norm": 2.173,
+        "duration": 0.6803,
+        "channel": 0,
+        "start_time": 6.0026
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 53,
+        "amplitude_norm": 1.669,
+        "duration": 0.1374,
+        "channel": 0,
+        "start_time": 6.6836
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 52,
+        "amplitude_norm": 1.638,
+        "duration": 0.1315,
+        "channel": 0,
+        "start_time": 6.8522
+    },
+    {
+        "note": "D3",
+        "midi_number": 50,
+        "frequency": 146.83,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.3099,
+        "channel": 0,
+        "start_time": 7.015
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.3099,
+        "channel": 0,
+        "start_time": 7.015
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 67,
+        "amplitude_norm": 2.11,
+        "duration": 0.1556,
+        "channel": 0,
+        "start_time": 7.345
+    },
+    {
+        "note": "E3",
+        "midi_number": 52,
+        "frequency": 164.81,
+        "velocity": 67,
+        "amplitude_norm": 2.11,
+        "duration": 0.306,
+        "channel": 0,
+        "start_time": 7.345
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.1497,
+        "channel": 0,
+        "start_time": 7.5111
+    },
+    {
+        "note": "A1",
+        "midi_number": 33,
+        "frequency": 55.0,
+        "velocity": 63,
+        "amplitude_norm": 1.984,
+        "duration": 0.1497,
+        "channel": 0,
+        "start_time": 7.6712
+    },
+    {
+        "note": "C3",
+        "midi_number": 48,
+        "frequency": 130.81,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.3086,
+        "channel": 0,
+        "start_time": 7.6712
+    },
+    {
+        "note": "A1",
+        "midi_number": 33,
+        "frequency": 55.0,
+        "velocity": 63,
+        "amplitude_norm": 1.984,
+        "duration": 0.1582,
+        "channel": 0,
+        "start_time": 7.8314
+    },
+    {
+        "note": "D3",
+        "midi_number": 50,
+        "frequency": 146.83,
+        "velocity": 69,
+        "amplitude_norm": 2.173,
+        "duration": 0.3314,
+        "channel": 0,
+        "start_time": 8.0026
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 69,
+        "amplitude_norm": 2.173,
+        "duration": 0.3314,
+        "channel": 0,
+        "start_time": 8.0026
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 52,
+        "amplitude_norm": 1.638,
+        "duration": 0.1296,
+        "channel": 0,
+        "start_time": 8.3542
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 52,
+        "amplitude_norm": 1.638,
+        "duration": 0.1374,
+        "channel": 0,
+        "start_time": 8.515
+    },
+    {
+        "note": "E3",
+        "midi_number": 52,
+        "frequency": 164.81,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.3092,
+        "channel": 0,
+        "start_time": 8.3542
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 53,
+        "amplitude_norm": 1.669,
+        "duration": 0.1374,
+        "channel": 0,
+        "start_time": 8.6836
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 52,
+        "amplitude_norm": 1.638,
+        "duration": 0.1315,
+        "channel": 0,
+        "start_time": 8.8522
+    },
+    {
+        "note": "A3",
+        "midi_number": 57,
+        "frequency": 220.0,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.3099,
+        "channel": 0,
+        "start_time": 9.015
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.3099,
+        "channel": 0,
+        "start_time": 9.015
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 67,
+        "amplitude_norm": 2.11,
+        "duration": 0.1556,
+        "channel": 0,
+        "start_time": 9.345
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.1497,
+        "channel": 0,
+        "start_time": 9.5111
+    },
+    {
+        "note": "A1",
+        "midi_number": 33,
+        "frequency": 55.0,
+        "velocity": 63,
+        "amplitude_norm": 1.984,
+        "duration": 0.1497,
+        "channel": 0,
+        "start_time": 9.6712
+    },
+    {
+        "note": "E3",
+        "midi_number": 52,
+        "frequency": 164.81,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.3086,
+        "channel": 0,
+        "start_time": 9.6712
+    },
+    {
+        "note": "A1",
+        "midi_number": 33,
+        "frequency": 55.0,
+        "velocity": 63,
+        "amplitude_norm": 1.984,
+        "duration": 0.1582,
+        "channel": 0,
+        "start_time": 9.8314
+    },
+    {
+        "note": "D3",
+        "midi_number": 50,
+        "frequency": 146.83,
+        "velocity": 69,
+        "amplitude_norm": 2.173,
+        "duration": 0.3314,
+        "channel": 0,
+        "start_time": 10.0026
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 69,
+        "amplitude_norm": 2.173,
+        "duration": 0.3314,
+        "channel": 0,
+        "start_time": 10.0026
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 52,
+        "amplitude_norm": 1.638,
+        "duration": 0.1296,
+        "channel": 0,
+        "start_time": 10.3542
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 52,
+        "amplitude_norm": 1.638,
+        "duration": 0.1374,
+        "channel": 0,
+        "start_time": 10.515
+    },
+    {
+        "note": "E3",
+        "midi_number": 52,
+        "frequency": 164.81,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.3092,
+        "channel": 0,
+        "start_time": 10.3542
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 53,
+        "amplitude_norm": 1.669,
+        "duration": 0.1374,
+        "channel": 0,
+        "start_time": 10.6836
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 52,
+        "amplitude_norm": 1.638,
+        "duration": 0.1315,
+        "channel": 0,
+        "start_time": 10.8522
+    },
+    {
+        "note": "C3",
+        "midi_number": 48,
+        "frequency": 130.81,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.3099,
+        "channel": 0,
+        "start_time": 11.015
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.3099,
+        "channel": 0,
+        "start_time": 11.015
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 67,
+        "amplitude_norm": 2.11,
+        "duration": 0.1556,
+        "channel": 0,
+        "start_time": 11.345
+    },
+    {
+        "note": "E3",
+        "midi_number": 52,
+        "frequency": 164.81,
+        "velocity": 67,
+        "amplitude_norm": 2.11,
+        "duration": 0.306,
+        "channel": 0,
+        "start_time": 11.345
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.1497,
+        "channel": 0,
+        "start_time": 11.5111
+    },
+    {
+        "note": "E3",
+        "midi_number": 52,
+        "frequency": 164.81,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.1497,
+        "channel": 0,
+        "start_time": 11.6712
+    },
+    {
+        "note": "A1",
+        "midi_number": 33,
+        "frequency": 55.0,
+        "velocity": 63,
+        "amplitude_norm": 1.984,
+        "duration": 0.1497,
+        "channel": 0,
+        "start_time": 11.6712
+    },
+    {
+        "note": "A3",
+        "midi_number": 57,
+        "frequency": 220.0,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.1582,
+        "channel": 0,
+        "start_time": 11.8314
+    },
+    {
+        "note": "A1",
+        "midi_number": 33,
+        "frequency": 55.0,
+        "velocity": 63,
+        "amplitude_norm": 1.984,
+        "duration": 0.1582,
+        "channel": 0,
+        "start_time": 11.8314
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 69,
+        "amplitude_norm": 2.173,
+        "duration": 0.3314,
+        "channel": 0,
+        "start_time": 12.0026
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 52,
+        "amplitude_norm": 1.638,
+        "duration": 0.1296,
+        "channel": 0,
+        "start_time": 12.3542
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 52,
+        "amplitude_norm": 1.638,
+        "duration": 0.1374,
+        "channel": 0,
+        "start_time": 12.515
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 53,
+        "amplitude_norm": 1.669,
+        "duration": 0.1374,
+        "channel": 0,
+        "start_time": 12.6836
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 52,
+        "amplitude_norm": 1.638,
+        "duration": 0.1315,
+        "channel": 0,
+        "start_time": 12.8522
+    },
+    {
+        "note": "A3",
+        "midi_number": 57,
+        "frequency": 220.0,
+        "velocity": 69,
+        "amplitude_norm": 2.173,
+        "duration": 1.0117,
+        "channel": 0,
+        "start_time": 12.0026
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.3099,
+        "channel": 0,
+        "start_time": 13.015
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 67,
+        "amplitude_norm": 2.11,
+        "duration": 0.1556,
+        "channel": 0,
+        "start_time": 13.345
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.1497,
+        "channel": 0,
+        "start_time": 13.5111
+    },
+    {
+        "note": "A1",
+        "midi_number": 33,
+        "frequency": 55.0,
+        "velocity": 63,
+        "amplitude_norm": 1.984,
+        "duration": 0.1497,
+        "channel": 0,
+        "start_time": 13.6712
+    },
+    {
+        "note": "A1",
+        "midi_number": 33,
+        "frequency": 55.0,
+        "velocity": 63,
+        "amplitude_norm": 1.984,
+        "duration": 0.1582,
+        "channel": 0,
+        "start_time": 13.8314
+    },
+    {
+        "note": "B3",
+        "midi_number": 59,
+        "frequency": 246.94,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.9844,
+        "channel": 0,
+        "start_time": 13.015
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 69,
+        "amplitude_norm": 2.173,
+        "duration": 0.3314,
+        "channel": 0,
+        "start_time": 14.0026
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 52,
+        "amplitude_norm": 1.638,
+        "duration": 0.1296,
+        "channel": 0,
+        "start_time": 14.3542
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 52,
+        "amplitude_norm": 1.638,
+        "duration": 0.1374,
+        "channel": 0,
+        "start_time": 14.515
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 53,
+        "amplitude_norm": 1.669,
+        "duration": 0.1374,
+        "channel": 0,
+        "start_time": 14.6836
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 52,
+        "amplitude_norm": 1.638,
+        "duration": 0.1315,
+        "channel": 0,
+        "start_time": 14.8522
+    },
+    {
+        "note": "C4",
+        "midi_number": 60,
+        "frequency": 261.63,
+        "velocity": 69,
+        "amplitude_norm": 2.173,
+        "duration": 1.0117,
+        "channel": 0,
+        "start_time": 14.0026
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.3099,
+        "channel": 0,
+        "start_time": 15.015
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 67,
+        "amplitude_norm": 2.11,
+        "duration": 0.1556,
+        "channel": 0,
+        "start_time": 15.345
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.1497,
+        "channel": 0,
+        "start_time": 15.5111
+    },
+    {
+        "note": "D4",
+        "midi_number": 62,
+        "frequency": 293.66,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.6556,
+        "channel": 0,
+        "start_time": 15.015
+    },
+    {
+        "note": "D4",
+        "midi_number": 62,
+        "frequency": 293.66,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.1497,
+        "channel": 0,
+        "start_time": 15.6712
+    },
+    {
+        "note": "A2",
+        "midi_number": 45,
+        "frequency": 110.0,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.1497,
+        "channel": 0,
+        "start_time": 15.6712
+    },
+    {
+        "note": "E4",
+        "midi_number": 64,
+        "frequency": 329.63,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.1582,
+        "channel": 0,
+        "start_time": 15.8314
+    },
+    {
+        "note": "A2",
+        "midi_number": 45,
+        "frequency": 110.0,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.1582,
+        "channel": 0,
+        "start_time": 15.8314
+    },
+    {
+        "note": "F4",
+        "midi_number": 65,
+        "frequency": 349.23,
+        "velocity": 69,
+        "amplitude_norm": 2.173,
+        "duration": 0.3314,
+        "channel": 0,
+        "start_time": 16.0026
+    },
+    {
+        "note": "D5",
+        "midi_number": 74,
+        "frequency": 587.33,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.3092,
+        "channel": 0,
+        "start_time": 16.3542
+    },
+    {
+        "note": "F4",
+        "midi_number": 65,
+        "frequency": 349.23,
+        "velocity": 65,
+        "amplitude_norm": 2.047,
+        "duration": 0.1582,
+        "channel": 0,
+        "start_time": 16.6836
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.1523,
+        "channel": 0,
+        "start_time": 16.8522
+    },
+    {
+        "note": "D3",
+        "midi_number": 50,
+        "frequency": 146.83,
+        "velocity": 61,
+        "amplitude_norm": 1.921,
+        "duration": 1.0117,
+        "channel": 0,
+        "start_time": 16.0026
+    },
+    {
+        "note": "A3",
+        "midi_number": 57,
+        "frequency": 220.0,
+        "velocity": 71,
+        "amplitude_norm": 2.236,
+        "duration": 1.0117,
+        "channel": 0,
+        "start_time": 16.0026
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.3099,
+        "channel": 0,
+        "start_time": 17.015
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 67,
+        "amplitude_norm": 2.11,
+        "duration": 0.306,
+        "channel": 0,
+        "start_time": 17.345
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.1497,
+        "channel": 0,
+        "start_time": 17.6712
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.1582,
+        "channel": 0,
+        "start_time": 17.8314
+    },
+    {
+        "note": "D3",
+        "midi_number": 50,
+        "frequency": 146.83,
+        "velocity": 56,
+        "amplitude_norm": 1.764,
+        "duration": 0.9844,
+        "channel": 0,
+        "start_time": 17.015
+    },
+    {
+        "note": "A3",
+        "midi_number": 57,
+        "frequency": 220.0,
+        "velocity": 70,
+        "amplitude_norm": 2.205,
+        "duration": 0.9844,
+        "channel": 0,
+        "start_time": 17.015
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 69,
+        "amplitude_norm": 2.173,
+        "duration": 0.3314,
+        "channel": 0,
+        "start_time": 18.0026
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.3092,
+        "channel": 0,
+        "start_time": 18.3541
+    },
+    {
+        "note": "B4",
+        "midi_number": 71,
+        "frequency": 493.88,
+        "velocity": 65,
+        "amplitude_norm": 2.047,
+        "duration": 0.0814,
+        "channel": 0,
+        "start_time": 18.6836
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.0768,
+        "channel": 0,
+        "start_time": 18.7702
+    },
+    {
+        "note": "F4",
+        "midi_number": 65,
+        "frequency": 349.23,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.0762,
+        "channel": 0,
+        "start_time": 18.8522
+    },
+    {
+        "note": "E4",
+        "midi_number": 64,
+        "frequency": 329.63,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.0762,
+        "channel": 0,
+        "start_time": 18.9336
+    },
+    {
+        "note": "C3",
+        "midi_number": 48,
+        "frequency": 130.81,
+        "velocity": 61,
+        "amplitude_norm": 1.921,
+        "duration": 1.0117,
+        "channel": 0,
+        "start_time": 18.0026
+    },
+    {
+        "note": "G3",
+        "midi_number": 55,
+        "frequency": 196.0,
+        "velocity": 75,
+        "amplitude_norm": 2.362,
+        "duration": 1.0117,
+        "channel": 0,
+        "start_time": 18.0026
+    },
+    {
+        "note": "D4",
+        "midi_number": 62,
+        "frequency": 293.66,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.3099,
+        "channel": 0,
+        "start_time": 19.015
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 67,
+        "amplitude_norm": 2.11,
+        "duration": 0.306,
+        "channel": 0,
+        "start_time": 19.345
+    },
+    {
+        "note": "E4",
+        "midi_number": 64,
+        "frequency": 329.63,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.1497,
+        "channel": 0,
+        "start_time": 19.6712
+    },
+    {
+        "note": "F4",
+        "midi_number": 65,
+        "frequency": 349.23,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.1582,
+        "channel": 0,
+        "start_time": 19.8314
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 56,
+        "amplitude_norm": 1.764,
+        "duration": 0.9844,
+        "channel": 0,
+        "start_time": 19.015
+    },
+    {
+        "note": "D3",
+        "midi_number": 50,
+        "frequency": 146.83,
+        "velocity": 70,
+        "amplitude_norm": 2.205,
+        "duration": 0.9844,
+        "channel": 0,
+        "start_time": 19.015
+    },
+    {
+        "note": "F4",
+        "midi_number": 65,
+        "frequency": 349.23,
+        "velocity": 69,
+        "amplitude_norm": 2.173,
+        "duration": 0.3314,
+        "channel": 0,
+        "start_time": 20.0026
+    },
+    {
+        "note": "D5",
+        "midi_number": 74,
+        "frequency": 587.33,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.3092,
+        "channel": 0,
+        "start_time": 20.3541
+    },
+    {
+        "note": "F4",
+        "midi_number": 65,
+        "frequency": 349.23,
+        "velocity": 65,
+        "amplitude_norm": 2.047,
+        "duration": 0.1582,
+        "channel": 0,
+        "start_time": 20.6836
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.1523,
+        "channel": 0,
+        "start_time": 20.8522
+    },
+    {
+        "note": "F2",
+        "midi_number": 41,
+        "frequency": 87.31,
+        "velocity": 61,
+        "amplitude_norm": 1.921,
+        "duration": 1.0117,
+        "channel": 0,
+        "start_time": 20.0026
+    },
+    {
+        "note": "F3",
+        "midi_number": 53,
+        "frequency": 174.61,
+        "velocity": 75,
+        "amplitude_norm": 2.362,
+        "duration": 1.0117,
+        "channel": 0,
+        "start_time": 20.0026
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.3099,
+        "channel": 0,
+        "start_time": 21.015
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 67,
+        "amplitude_norm": 2.11,
+        "duration": 0.306,
+        "channel": 0,
+        "start_time": 21.345
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.1497,
+        "channel": 0,
+        "start_time": 21.6712
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.1582,
+        "channel": 0,
+        "start_time": 21.8314
+    },
+    {
+        "note": "C3",
+        "midi_number": 48,
+        "frequency": 130.81,
+        "velocity": 56,
+        "amplitude_norm": 1.764,
+        "duration": 0.9844,
+        "channel": 0,
+        "start_time": 21.015
+    },
+    {
+        "note": "C4",
+        "midi_number": 60,
+        "frequency": 261.63,
+        "velocity": 70,
+        "amplitude_norm": 2.205,
+        "duration": 0.9844,
+        "channel": 0,
+        "start_time": 21.015
+    },
+    {
+        "note": "D3",
+        "midi_number": 50,
+        "frequency": 146.83,
+        "velocity": 61,
+        "amplitude_norm": 1.921,
+        "duration": 1.0117,
+        "channel": 0,
+        "start_time": 22.0026
+    },
+    {
+        "note": "D4",
+        "midi_number": 62,
+        "frequency": 293.66,
+        "velocity": 75,
+        "amplitude_norm": 2.362,
+        "duration": 1.0117,
+        "channel": 0,
+        "start_time": 22.0026
+    },
+    {
+        "note": "D5",
+        "midi_number": 74,
+        "frequency": 587.33,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 1.3418,
+        "channel": 0,
+        "start_time": 22.0026
+    },
+    {
+        "note": "C3",
+        "midi_number": 48,
+        "frequency": 130.81,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.6556,
+        "channel": 0,
+        "start_time": 23.015
+    },
+    {
+        "note": "D3",
+        "midi_number": 50,
+        "frequency": 146.83,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.1497,
+        "channel": 0,
+        "start_time": 23.6712
+    },
+    {
+        "note": "E3",
+        "midi_number": 52,
+        "frequency": 164.81,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.1582,
+        "channel": 0,
+        "start_time": 23.8314
+    },
+    {
+        "note": "F3",
+        "midi_number": 53,
+        "frequency": 174.61,
+        "velocity": 69,
+        "amplitude_norm": 2.173,
+        "duration": 0.6803,
+        "channel": 0,
+        "start_time": 24.0026
+    },
+    {
+        "note": "F3",
+        "midi_number": 53,
+        "frequency": 174.61,
+        "velocity": 65,
+        "amplitude_norm": 2.047,
+        "duration": 0.1582,
+        "channel": 0,
+        "start_time": 24.6836
+    },
+    {
+        "note": "G3",
+        "midi_number": 55,
+        "frequency": 196.0,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.1523,
+        "channel": 0,
+        "start_time": 24.8522
+    },
+    {
+        "note": "A3",
+        "midi_number": 57,
+        "frequency": 220.0,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.6556,
+        "channel": 0,
+        "start_time": 25.0149
+    },
+    {
+        "note": "A3",
+        "midi_number": 57,
+        "frequency": 220.0,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.1497,
+        "channel": 0,
+        "start_time": 25.6712
+    },
+    {
+        "note": "C4",
+        "midi_number": 60,
+        "frequency": 261.63,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.1582,
+        "channel": 0,
+        "start_time": 25.8314
+    },
+    {
+        "note": "D5",
+        "midi_number": 74,
+        "frequency": 587.33,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 1.9967,
+        "channel": 0,
+        "start_time": 24.0026
+    },
+    {
+        "note": "G3",
+        "midi_number": 55,
+        "frequency": 196.0,
+        "velocity": 69,
+        "amplitude_norm": 2.173,
+        "duration": 0.6803,
+        "channel": 0,
+        "start_time": 26.0026
+    },
+    {
+        "note": "F3",
+        "midi_number": 53,
+        "frequency": 174.61,
+        "velocity": 65,
+        "amplitude_norm": 2.047,
+        "duration": 0.1582,
+        "channel": 0,
+        "start_time": 26.6836
+    },
+    {
+        "note": "E3",
+        "midi_number": 52,
+        "frequency": 164.81,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.1523,
+        "channel": 0,
+        "start_time": 26.8522
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 69,
+        "amplitude_norm": 2.173,
+        "duration": 1.0117,
+        "channel": 0,
+        "start_time": 26.0026
+    },
+    {
+        "note": "D3",
+        "midi_number": 50,
+        "frequency": 146.83,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.6556,
+        "channel": 0,
+        "start_time": 27.0149
+    },
+    {
+        "note": "D3",
+        "midi_number": 50,
+        "frequency": 146.83,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.1497,
+        "channel": 0,
+        "start_time": 27.6712
+    },
+    {
+        "note": "E3",
+        "midi_number": 52,
+        "frequency": 164.81,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.1582,
+        "channel": 0,
+        "start_time": 27.8314
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.9844,
+        "channel": 0,
+        "start_time": 27.0149
+    },
+    {
+        "note": "F3",
+        "midi_number": 53,
+        "frequency": 174.61,
+        "velocity": 69,
+        "amplitude_norm": 2.173,
+        "duration": 0.6803,
+        "channel": 0,
+        "start_time": 28.0026
+    },
+    {
+        "note": "F3",
+        "midi_number": 53,
+        "frequency": 174.61,
+        "velocity": 65,
+        "amplitude_norm": 2.047,
+        "duration": 0.1582,
+        "channel": 0,
+        "start_time": 28.6836
+    },
+    {
+        "note": "G3",
+        "midi_number": 55,
+        "frequency": 196.0,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.1523,
+        "channel": 0,
+        "start_time": 28.8522
+    },
+    {
+        "note": "A3",
+        "midi_number": 57,
+        "frequency": 220.0,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.6556,
+        "channel": 0,
+        "start_time": 29.0149
+    },
+    {
+        "note": "A3",
+        "midi_number": 57,
+        "frequency": 220.0,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.1497,
+        "channel": 0,
+        "start_time": 29.6712
+    },
+    {
+        "note": "C4",
+        "midi_number": 60,
+        "frequency": 261.63,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.1582,
+        "channel": 0,
+        "start_time": 29.8314
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 1.9967,
+        "channel": 0,
+        "start_time": 28.0026
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 69,
+        "amplitude_norm": 2.173,
+        "duration": 1.0117,
+        "channel": 0,
+        "start_time": 30.0026
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.9844,
+        "channel": 0,
+        "start_time": 31.0149
+    },
+    {
+        "note": "D4",
+        "midi_number": 62,
+        "frequency": 293.66,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 1.9967,
+        "channel": 0,
+        "start_time": 30.0026
+    },
+    {
+        "note": "D5",
+        "midi_number": 74,
+        "frequency": 587.33,
+        "velocity": 69,
+        "amplitude_norm": 2.173,
+        "duration": 1.0117,
+        "channel": 0,
+        "start_time": 32.0026
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.9844,
+        "channel": 0,
+        "start_time": 33.0149
+    },
+    {
+        "note": "A3",
+        "midi_number": 57,
+        "frequency": 220.0,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 1.9967,
+        "channel": 0,
+        "start_time": 32.0026
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 69,
+        "amplitude_norm": 2.173,
+        "duration": 1.0117,
+        "channel": 0,
+        "start_time": 34.0026
+    },
+    {
+        "note": "F4",
+        "midi_number": 65,
+        "frequency": 349.23,
+        "velocity": 69,
+        "amplitude_norm": 2.173,
+        "duration": 1.0117,
+        "channel": 0,
+        "start_time": 34.0026
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.3099,
+        "channel": 0,
+        "start_time": 35.0149
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 67,
+        "amplitude_norm": 2.11,
+        "duration": 0.306,
+        "channel": 0,
+        "start_time": 35.345
+    },
+    {
+        "note": "D5",
+        "midi_number": 74,
+        "frequency": 587.33,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.3086,
+        "channel": 0,
+        "start_time": 35.6712
+    },
+    {
+        "note": "E4",
+        "midi_number": 64,
+        "frequency": 329.63,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.9844,
+        "channel": 0,
+        "start_time": 35.0149
+    },
+    {
+        "note": "D5",
+        "midi_number": 74,
+        "frequency": 587.33,
+        "velocity": 69,
+        "amplitude_norm": 2.173,
+        "duration": 1.0117,
+        "channel": 0,
+        "start_time": 36.0026
+    },
+    {
+        "note": "A#5",
+        "midi_number": 82,
+        "frequency": 932.33,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.9844,
+        "channel": 0,
+        "start_time": 37.0149
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 1.9967,
+        "channel": 0,
+        "start_time": 36.0026
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 69,
+        "amplitude_norm": 2.173,
+        "duration": 1.0117,
+        "channel": 0,
+        "start_time": 38.0026
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.9844,
+        "channel": 0,
+        "start_time": 39.0149
+    },
+    {
+        "note": "D5",
+        "midi_number": 74,
+        "frequency": 587.33,
+        "velocity": 69,
+        "amplitude_norm": 2.173,
+        "duration": 1.0117,
+        "channel": 0,
+        "start_time": 40.0026
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.9844,
+        "channel": 0,
+        "start_time": 41.0149
+    },
+    {
+        "note": "D4",
+        "midi_number": 62,
+        "frequency": 293.66,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 1.9967,
+        "channel": 0,
+        "start_time": 40.0026
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 69,
+        "amplitude_norm": 2.173,
+        "duration": 1.0117,
+        "channel": 0,
+        "start_time": 42.0026
+    },
+    {
+        "note": "G5",
+        "midi_number": 79,
+        "frequency": 783.99,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.3099,
+        "channel": 0,
+        "start_time": 43.0149
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 67,
+        "amplitude_norm": 2.11,
+        "duration": 0.306,
+        "channel": 0,
+        "start_time": 43.345
+    },
+    {
+        "note": "G5",
+        "midi_number": 79,
+        "frequency": 783.99,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.3086,
+        "channel": 0,
+        "start_time": 43.6712
+    },
+    {
+        "note": "D4",
+        "midi_number": 62,
+        "frequency": 293.66,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 1.9967,
+        "channel": 0,
+        "start_time": 42.0026
+    },
+    {
+        "note": "A5",
+        "midi_number": 81,
+        "frequency": 880.0,
+        "velocity": 69,
+        "amplitude_norm": 2.173,
+        "duration": 1.0117,
+        "channel": 0,
+        "start_time": 44.0026
+    },
+    {
+        "note": "A#5",
+        "midi_number": 82,
+        "frequency": 932.33,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.9844,
+        "channel": 0,
+        "start_time": 45.0149
+    },
+    {
+        "note": "D4",
+        "midi_number": 62,
+        "frequency": 293.66,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 1.9967,
+        "channel": 0,
+        "start_time": 44.0026
+    },
+    {
+        "note": "C6",
+        "midi_number": 84,
+        "frequency": 1046.5,
+        "velocity": 69,
+        "amplitude_norm": 2.173,
+        "duration": 1.0117,
+        "channel": 0,
+        "start_time": 46.0026
+    },
+    {
+        "note": "C4",
+        "midi_number": 60,
+        "frequency": 261.63,
+        "velocity": 69,
+        "amplitude_norm": 2.173,
+        "duration": 1.0117,
+        "channel": 0,
+        "start_time": 46.0026
+    },
+    {
+        "note": "D6",
+        "midi_number": 86,
+        "frequency": 1174.66,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.9844,
+        "channel": 0,
+        "start_time": 47.0149
+    },
+    {
+        "note": "D4",
+        "midi_number": 62,
+        "frequency": 293.66,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.9844,
+        "channel": 0,
+        "start_time": 47.0149
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 1.9967,
+        "channel": 0,
+        "start_time": 48.0026
+    },
+    {
+        "note": "A3",
+        "midi_number": 57,
+        "frequency": 220.0,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 1.9967,
+        "channel": 0,
+        "start_time": 48.0026
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 1.9967,
+        "channel": 0,
+        "start_time": 50.0026
+    },
+    {
+        "note": "G3",
+        "midi_number": 55,
+        "frequency": 196.0,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 1.9967,
+        "channel": 0,
+        "start_time": 50.0026
+    },
+    {
+        "note": "G3",
+        "midi_number": 55,
+        "frequency": 196.0,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 1.3418,
+        "channel": 0,
+        "start_time": 52.0026
+    },
+    {
+        "note": "G5",
+        "midi_number": 79,
+        "frequency": 783.99,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 1.9967,
+        "channel": 0,
+        "start_time": 52.0026
+    },
+    {
+        "note": "A2",
+        "midi_number": 45,
+        "frequency": 110.0,
+        "velocity": 67,
+        "amplitude_norm": 2.11,
+        "duration": 0.6543,
+        "channel": 0,
+        "start_time": 53.345
+    },
+    {
+        "note": "D5",
+        "midi_number": 74,
+        "frequency": 587.33,
+        "velocity": 69,
+        "amplitude_norm": 2.173,
+        "duration": 1.0117,
+        "channel": 0,
+        "start_time": 54.0026
+    },
+    {
+        "note": "D3",
+        "midi_number": 50,
+        "frequency": 146.83,
+        "velocity": 69,
+        "amplitude_norm": 2.173,
+        "duration": 1.0117,
+        "channel": 0,
+        "start_time": 54.0026
+    },
+    {
+        "note": "D5",
+        "midi_number": 74,
+        "frequency": 587.33,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.9844,
+        "channel": 0,
+        "start_time": 55.0149
+    },
+    {
+        "note": "E3",
+        "midi_number": 52,
+        "frequency": 164.81,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.9844,
+        "channel": 0,
+        "start_time": 55.0149
+    },
+    {
+        "note": "D5",
+        "midi_number": 74,
+        "frequency": 587.33,
+        "velocity": 69,
+        "amplitude_norm": 2.173,
+        "duration": 1.0117,
+        "channel": 0,
+        "start_time": 56.0025
+    },
+    {
+        "note": "F3",
+        "midi_number": 53,
+        "frequency": 174.61,
+        "velocity": 69,
+        "amplitude_norm": 2.173,
+        "duration": 1.0117,
+        "channel": 0,
+        "start_time": 56.0025
+    },
+    {
+        "note": "D5",
+        "midi_number": 74,
+        "frequency": 587.33,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.9844,
+        "channel": 0,
+        "start_time": 57.0149
+    },
+    {
+        "note": "A3",
+        "midi_number": 57,
+        "frequency": 220.0,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 0.9844,
+        "channel": 0,
+        "start_time": 57.0149
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 1.9967,
+        "channel": 0,
+        "start_time": 58.0025
+    },
+    {
+        "note": "B4",
+        "midi_number": 71,
+        "frequency": 493.88,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 1.9967,
+        "channel": 0,
+        "start_time": 60.0025
+    },
+    {
+        "note": "G3",
+        "midi_number": 55,
+        "frequency": 196.0,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 3.9967,
+        "channel": 0,
+        "start_time": 58.0025
+    },
+    {
+        "note": "D6",
+        "midi_number": 86,
+        "frequency": 1174.66,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 1.9967,
+        "channel": 0,
+        "start_time": 62.0025
+    },
+    {
+        "note": "D6",
+        "midi_number": 86,
+        "frequency": 1174.66,
+        "velocity": 64,
+        "amplitude_norm": 2.016,
+        "duration": 1.9967,
+        "channel": 0,
+        "start_time": 64.0025
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 63,
+        "amplitude_norm": 1.984,
+        "duration": 3.9967,
+        "channel": 0,
+        "start_time": 62.0025
+    },
+    {
+        "note": "D2",
+        "midi_number": 38,
+        "frequency": 73.42,
+        "velocity": 63,
+        "amplitude_norm": 1.984,
+        "duration": 1.9967,
+        "channel": 0,
+        "start_time": 66.0025
+    }
+]

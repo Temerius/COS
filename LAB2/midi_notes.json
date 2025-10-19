@@ -1,0 +1,4192 @@
+[
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 0.0
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 0.0
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 0.125
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 0.125
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 0.375
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 0.375
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 0.625
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 0.75
+    },
+    {
+        "note": "G5",
+        "midi_number": 79,
+        "frequency": 783.99,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 1.0
+    },
+    {
+        "note": "B4",
+        "midi_number": 71,
+        "frequency": 493.88,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 1.0
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 1.5
+    },
+    {
+        "note": "B3",
+        "midi_number": 59,
+        "frequency": 246.94,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 1.5
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 2.0
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 2.375
+    },
+    {
+        "note": "E4",
+        "midi_number": 64,
+        "frequency": 329.63,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 2.75
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 3.125
+    },
+    {
+        "note": "B4",
+        "midi_number": 71,
+        "frequency": 493.88,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 3.375
+    },
+    {
+        "note": "A#4",
+        "midi_number": 70,
+        "frequency": 466.16,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 3.625
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 3.75
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 4.0
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 4.1667
+    },
+    {
+        "note": "G5",
+        "midi_number": 79,
+        "frequency": 783.99,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 4.3333
+    },
+    {
+        "note": "A5",
+        "midi_number": 81,
+        "frequency": 880.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 4.5
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 4.75
+    },
+    {
+        "note": "G5",
+        "midi_number": 79,
+        "frequency": 783.99,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 4.875
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 5.125
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 5.375
+    },
+    {
+        "note": "D5",
+        "midi_number": 74,
+        "frequency": 587.33,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 5.5
+    },
+    {
+        "note": "B4",
+        "midi_number": 71,
+        "frequency": 493.88,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 5.625
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 6.0
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 6.375
+    },
+    {
+        "note": "E4",
+        "midi_number": 64,
+        "frequency": 329.63,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 6.75
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 7.125
+    },
+    {
+        "note": "B4",
+        "midi_number": 71,
+        "frequency": 493.88,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 7.375
+    },
+    {
+        "note": "A#4",
+        "midi_number": 70,
+        "frequency": 466.16,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 7.625
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 7.75
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 8.0
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 8.1667
+    },
+    {
+        "note": "G5",
+        "midi_number": 79,
+        "frequency": 783.99,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 8.3333
+    },
+    {
+        "note": "A5",
+        "midi_number": 81,
+        "frequency": 880.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 8.5
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 8.75
+    },
+    {
+        "note": "G5",
+        "midi_number": 79,
+        "frequency": 783.99,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 8.875
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 9.125
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 9.375
+    },
+    {
+        "note": "D5",
+        "midi_number": 74,
+        "frequency": 587.33,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 9.5
+    },
+    {
+        "note": "B4",
+        "midi_number": 71,
+        "frequency": 493.88,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 9.625
+    },
+    {
+        "note": "C4",
+        "midi_number": 60,
+        "frequency": 261.63,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 10.0
+    },
+    {
+        "note": "G5",
+        "midi_number": 79,
+        "frequency": 783.99,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 10.25
+    },
+    {
+        "note": "F#5",
+        "midi_number": 78,
+        "frequency": 739.99,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 10.375
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 10.5
+    },
+    {
+        "note": "D#5",
+        "midi_number": 75,
+        "frequency": 622.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 10.625
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 10.875
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 10.875
+    },
+    {
+        "note": "G#4",
+        "midi_number": 68,
+        "frequency": 415.3,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 11.125
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 11.25
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 11.375
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 11.625
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 11.75
+    },
+    {
+        "note": "D5",
+        "midi_number": 74,
+        "frequency": 587.33,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 11.875
+    },
+    {
+        "note": "C4",
+        "midi_number": 60,
+        "frequency": 261.63,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 12.0
+    },
+    {
+        "note": "G5",
+        "midi_number": 79,
+        "frequency": 783.99,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 12.25
+    },
+    {
+        "note": "F#5",
+        "midi_number": 78,
+        "frequency": 739.99,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 12.375
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 12.5
+    },
+    {
+        "note": "D#5",
+        "midi_number": 75,
+        "frequency": 622.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 12.625
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 12.875
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 12.875
+    },
+    {
+        "note": "C6",
+        "midi_number": 84,
+        "frequency": 1046.5,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 13.125
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 13.125
+    },
+    {
+        "note": "C6",
+        "midi_number": 84,
+        "frequency": 1046.5,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 13.375
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 13.375
+    },
+    {
+        "note": "C6",
+        "midi_number": 84,
+        "frequency": 1046.5,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 13.5
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 13.5
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 13.75
+    },
+    {
+        "note": "C4",
+        "midi_number": 60,
+        "frequency": 261.63,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 14.0
+    },
+    {
+        "note": "G5",
+        "midi_number": 79,
+        "frequency": 783.99,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 14.25
+    },
+    {
+        "note": "F#5",
+        "midi_number": 78,
+        "frequency": 739.99,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 14.375
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 14.5
+    },
+    {
+        "note": "D#5",
+        "midi_number": 75,
+        "frequency": 622.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 14.625
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 14.875
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 14.875
+    },
+    {
+        "note": "G#4",
+        "midi_number": 68,
+        "frequency": 415.3,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 15.125
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 15.25
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 15.375
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 15.625
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 15.75
+    },
+    {
+        "note": "D5",
+        "midi_number": 74,
+        "frequency": 587.33,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 15.875
+    },
+    {
+        "note": "D#5",
+        "midi_number": 75,
+        "frequency": 622.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 16.25
+    },
+    {
+        "note": "G#4",
+        "midi_number": 68,
+        "frequency": 415.3,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 16.25
+    },
+    {
+        "note": "D5",
+        "midi_number": 74,
+        "frequency": 587.33,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 16.625
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 16.625
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 17.0
+    },
+    {
+        "note": "E4",
+        "midi_number": 64,
+        "frequency": 329.63,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 17.0
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 17.375
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 17.5
+    },
+    {
+        "note": "C4",
+        "midi_number": 60,
+        "frequency": 261.63,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 17.75
+    },
+    {
+        "note": "C4",
+        "midi_number": 60,
+        "frequency": 261.63,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 18.0
+    },
+    {
+        "note": "G5",
+        "midi_number": 79,
+        "frequency": 783.99,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 18.25
+    },
+    {
+        "note": "F#5",
+        "midi_number": 78,
+        "frequency": 739.99,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 18.375
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 18.5
+    },
+    {
+        "note": "D#5",
+        "midi_number": 75,
+        "frequency": 622.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 18.625
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 18.875
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 18.875
+    },
+    {
+        "note": "G#4",
+        "midi_number": 68,
+        "frequency": 415.3,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 19.125
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 19.25
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 19.375
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 19.625
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 19.75
+    },
+    {
+        "note": "D5",
+        "midi_number": 74,
+        "frequency": 587.33,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 19.875
+    },
+    {
+        "note": "C4",
+        "midi_number": 60,
+        "frequency": 261.63,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 20.0
+    },
+    {
+        "note": "G5",
+        "midi_number": 79,
+        "frequency": 783.99,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 20.25
+    },
+    {
+        "note": "F#5",
+        "midi_number": 78,
+        "frequency": 739.99,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 20.375
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 20.5
+    },
+    {
+        "note": "D#5",
+        "midi_number": 75,
+        "frequency": 622.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 20.625
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 20.875
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 20.875
+    },
+    {
+        "note": "C6",
+        "midi_number": 84,
+        "frequency": 1046.5,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 21.125
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 21.125
+    },
+    {
+        "note": "C6",
+        "midi_number": 84,
+        "frequency": 1046.5,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 21.375
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 21.375
+    },
+    {
+        "note": "C6",
+        "midi_number": 84,
+        "frequency": 1046.5,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 21.5
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 21.5
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 21.75
+    },
+    {
+        "note": "C4",
+        "midi_number": 60,
+        "frequency": 261.63,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 22.0
+    },
+    {
+        "note": "G5",
+        "midi_number": 79,
+        "frequency": 783.99,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 22.25
+    },
+    {
+        "note": "F#5",
+        "midi_number": 78,
+        "frequency": 739.99,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 22.375
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 22.5
+    },
+    {
+        "note": "D#5",
+        "midi_number": 75,
+        "frequency": 622.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 22.625
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 22.875
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 22.875
+    },
+    {
+        "note": "G#4",
+        "midi_number": 68,
+        "frequency": 415.3,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 23.125
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 23.25
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 23.375
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 23.625
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 23.75
+    },
+    {
+        "note": "D5",
+        "midi_number": 74,
+        "frequency": 587.33,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 23.875
+    },
+    {
+        "note": "D#5",
+        "midi_number": 75,
+        "frequency": 622.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 24.25
+    },
+    {
+        "note": "G#4",
+        "midi_number": 68,
+        "frequency": 415.3,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 24.25
+    },
+    {
+        "note": "D5",
+        "midi_number": 74,
+        "frequency": 587.33,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 24.625
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 24.625
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 25.0
+    },
+    {
+        "note": "E4",
+        "midi_number": 64,
+        "frequency": 329.63,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 25.0
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 25.375
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 25.5
+    },
+    {
+        "note": "C4",
+        "midi_number": 60,
+        "frequency": 261.63,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 25.75
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 26.0
+    },
+    {
+        "note": "E4",
+        "midi_number": 64,
+        "frequency": 329.63,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 26.0
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 26.125
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 26.375
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 26.625
+    },
+    {
+        "note": "D5",
+        "midi_number": 74,
+        "frequency": 587.33,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 26.75
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 27.0
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 27.125
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 27.375
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 27.5
+    },
+    {
+        "note": "C4",
+        "midi_number": 60,
+        "frequency": 261.63,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 27.75
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 28.0
+    },
+    {
+        "note": "E4",
+        "midi_number": 64,
+        "frequency": 329.63,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 28.0
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 28.125
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 28.375
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 28.625
+    },
+    {
+        "note": "D5",
+        "midi_number": 74,
+        "frequency": 587.33,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 28.75
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 28.875
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 29.0
+    },
+    {
+        "note": "C4",
+        "midi_number": 60,
+        "frequency": 261.63,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 29.375
+    },
+    {
+        "note": "C4",
+        "midi_number": 60,
+        "frequency": 261.63,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 29.75
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 30.0
+    },
+    {
+        "note": "E4",
+        "midi_number": 64,
+        "frequency": 329.63,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 30.0
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 30.125
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 30.375
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 30.625
+    },
+    {
+        "note": "D5",
+        "midi_number": 74,
+        "frequency": 587.33,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 30.75
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 31.0
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 31.125
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 31.375
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 31.5
+    },
+    {
+        "note": "C4",
+        "midi_number": 60,
+        "frequency": 261.63,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 31.75
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 32.0
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 32.0
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 32.125
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 32.125
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 32.375
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 32.375
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 32.625
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 32.75
+    },
+    {
+        "note": "G5",
+        "midi_number": 79,
+        "frequency": 783.99,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 33.0
+    },
+    {
+        "note": "B4",
+        "midi_number": 71,
+        "frequency": 493.88,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 33.0
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 33.5
+    },
+    {
+        "note": "B3",
+        "midi_number": 59,
+        "frequency": 246.94,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 33.5
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 34.0
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 34.375
+    },
+    {
+        "note": "E4",
+        "midi_number": 64,
+        "frequency": 329.63,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 34.75
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 35.125
+    },
+    {
+        "note": "B4",
+        "midi_number": 71,
+        "frequency": 493.88,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 35.375
+    },
+    {
+        "note": "A#4",
+        "midi_number": 70,
+        "frequency": 466.16,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 35.625
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 35.75
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 36.0
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 36.1667
+    },
+    {
+        "note": "G5",
+        "midi_number": 79,
+        "frequency": 783.99,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 36.3333
+    },
+    {
+        "note": "A5",
+        "midi_number": 81,
+        "frequency": 880.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 36.5
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 36.75
+    },
+    {
+        "note": "G5",
+        "midi_number": 79,
+        "frequency": 783.99,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 36.875
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 37.125
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 37.375
+    },
+    {
+        "note": "D5",
+        "midi_number": 74,
+        "frequency": 587.33,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 37.5
+    },
+    {
+        "note": "B4",
+        "midi_number": 71,
+        "frequency": 493.88,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 37.625
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 38.0
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 38.375
+    },
+    {
+        "note": "E4",
+        "midi_number": 64,
+        "frequency": 329.63,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 38.75
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 39.125
+    },
+    {
+        "note": "B4",
+        "midi_number": 71,
+        "frequency": 493.88,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 39.375
+    },
+    {
+        "note": "A#4",
+        "midi_number": 70,
+        "frequency": 466.16,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 39.625
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 39.75
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 40.0
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 40.1667
+    },
+    {
+        "note": "G5",
+        "midi_number": 79,
+        "frequency": 783.99,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 40.3333
+    },
+    {
+        "note": "A5",
+        "midi_number": 81,
+        "frequency": 880.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 40.5
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 40.75
+    },
+    {
+        "note": "G5",
+        "midi_number": 79,
+        "frequency": 783.99,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 40.875
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 41.125
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 41.375
+    },
+    {
+        "note": "D5",
+        "midi_number": 74,
+        "frequency": 587.33,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 41.5
+    },
+    {
+        "note": "B4",
+        "midi_number": 71,
+        "frequency": 493.88,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 41.625
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 42.0
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 42.125
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 42.375
+    },
+    {
+        "note": "G#4",
+        "midi_number": 68,
+        "frequency": 415.3,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 42.75
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 43.0
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 43.125
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 43.375
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 43.5
+    },
+    {
+        "note": "C4",
+        "midi_number": 60,
+        "frequency": 261.63,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 43.75
+    },
+    {
+        "note": "B4",
+        "midi_number": 71,
+        "frequency": 493.88,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 44.0
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 44.0
+    },
+    {
+        "note": "A5",
+        "midi_number": 81,
+        "frequency": 880.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 44.1667
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 44.1667
+    },
+    {
+        "note": "A5",
+        "midi_number": 81,
+        "frequency": 880.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 44.3333
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 44.3333
+    },
+    {
+        "note": "A5",
+        "midi_number": 81,
+        "frequency": 880.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 44.5
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 44.5
+    },
+    {
+        "note": "G5",
+        "midi_number": 79,
+        "frequency": 783.99,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 44.6667
+    },
+    {
+        "note": "B4",
+        "midi_number": 71,
+        "frequency": 493.88,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 44.6667
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 44.8333
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 45.0
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 45.125
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 45.375
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 45.5
+    },
+    {
+        "note": "C4",
+        "midi_number": 60,
+        "frequency": 261.63,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 45.75
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 46.0
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 46.125
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 46.375
+    },
+    {
+        "note": "G#4",
+        "midi_number": 68,
+        "frequency": 415.3,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 46.75
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 47.0
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 47.125
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 47.375
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 47.5
+    },
+    {
+        "note": "C4",
+        "midi_number": 60,
+        "frequency": 261.63,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 47.75
+    },
+    {
+        "note": "B4",
+        "midi_number": 71,
+        "frequency": 493.88,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 48.0
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 48.0
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 48.125
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 48.125
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 48.375
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 48.375
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 48.5
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 48.5
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 48.6667
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 48.6667
+    },
+    {
+        "note": "D5",
+        "midi_number": 74,
+        "frequency": 587.33,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 48.8333
+    },
+    {
+        "note": "F4",
+        "midi_number": 65,
+        "frequency": 349.23,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 48.8333
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 49.0
+    },
+    {
+        "note": "E4",
+        "midi_number": 64,
+        "frequency": 329.63,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 49.0
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 49.125
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 49.375
+    },
+    {
+        "note": "C4",
+        "midi_number": 60,
+        "frequency": 261.63,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 49.5
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 50.0
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 50.125
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 50.375
+    },
+    {
+        "note": "G#4",
+        "midi_number": 68,
+        "frequency": 415.3,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 50.75
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 51.0
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 51.125
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 51.375
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 51.5
+    },
+    {
+        "note": "C4",
+        "midi_number": 60,
+        "frequency": 261.63,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 51.75
+    },
+    {
+        "note": "B4",
+        "midi_number": 71,
+        "frequency": 493.88,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 52.0
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 52.0
+    },
+    {
+        "note": "A5",
+        "midi_number": 81,
+        "frequency": 880.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 52.1667
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 52.1667
+    },
+    {
+        "note": "A5",
+        "midi_number": 81,
+        "frequency": 880.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 52.3333
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 52.3333
+    },
+    {
+        "note": "A5",
+        "midi_number": 81,
+        "frequency": 880.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 52.5
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 52.5
+    },
+    {
+        "note": "G5",
+        "midi_number": 79,
+        "frequency": 783.99,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 52.6667
+    },
+    {
+        "note": "B4",
+        "midi_number": 71,
+        "frequency": 493.88,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 52.6667
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 52.8333
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 53.0
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 53.125
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 53.375
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 53.5
+    },
+    {
+        "note": "C4",
+        "midi_number": 60,
+        "frequency": 261.63,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 53.75
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 54.0
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 54.125
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 54.375
+    },
+    {
+        "note": "G#4",
+        "midi_number": 68,
+        "frequency": 415.3,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 54.75
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 55.0
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 55.125
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 55.375
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 55.5
+    },
+    {
+        "note": "C4",
+        "midi_number": 60,
+        "frequency": 261.63,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 55.75
+    },
+    {
+        "note": "B4",
+        "midi_number": 71,
+        "frequency": 493.88,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 56.0
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 56.0
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 56.125
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 56.125
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 56.375
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 56.375
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 56.5
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 56.5
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 56.6667
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 56.6667
+    },
+    {
+        "note": "D5",
+        "midi_number": 74,
+        "frequency": 587.33,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 56.8333
+    },
+    {
+        "note": "F4",
+        "midi_number": 65,
+        "frequency": 349.23,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 56.8333
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 57.0
+    },
+    {
+        "note": "E4",
+        "midi_number": 64,
+        "frequency": 329.63,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 57.0
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 57.125
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 57.375
+    },
+    {
+        "note": "C4",
+        "midi_number": 60,
+        "frequency": 261.63,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 57.5
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 58.0
+    },
+    {
+        "note": "E4",
+        "midi_number": 64,
+        "frequency": 329.63,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 58.0
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 58.125
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 58.375
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 58.625
+    },
+    {
+        "note": "D5",
+        "midi_number": 74,
+        "frequency": 587.33,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 58.75
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 59.0
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 59.125
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 59.375
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 59.5
+    },
+    {
+        "note": "C4",
+        "midi_number": 60,
+        "frequency": 261.63,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 59.75
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 60.0
+    },
+    {
+        "note": "E4",
+        "midi_number": 64,
+        "frequency": 329.63,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 60.0
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 60.125
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 60.375
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 60.625
+    },
+    {
+        "note": "D5",
+        "midi_number": 74,
+        "frequency": 587.33,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 60.75
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 60.875
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 61.0
+    },
+    {
+        "note": "C4",
+        "midi_number": 60,
+        "frequency": 261.63,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 61.375
+    },
+    {
+        "note": "C4",
+        "midi_number": 60,
+        "frequency": 261.63,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 61.75
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 62.0
+    },
+    {
+        "note": "E4",
+        "midi_number": 64,
+        "frequency": 329.63,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 62.0
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 62.125
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 62.375
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 62.625
+    },
+    {
+        "note": "D5",
+        "midi_number": 74,
+        "frequency": 587.33,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 62.75
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 63.0
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 63.125
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 63.375
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 63.5
+    },
+    {
+        "note": "C4",
+        "midi_number": 60,
+        "frequency": 261.63,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 63.75
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 64.0
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 64.0
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 64.125
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 64.125
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 64.375
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 64.375
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 64.625
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 64.75
+    },
+    {
+        "note": "G5",
+        "midi_number": 79,
+        "frequency": 783.99,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 65.0
+    },
+    {
+        "note": "B4",
+        "midi_number": 71,
+        "frequency": 493.88,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 65.0
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 65.5
+    },
+    {
+        "note": "B3",
+        "midi_number": 59,
+        "frequency": 246.94,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 65.5
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 66.0
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 66.125
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 66.375
+    },
+    {
+        "note": "G#4",
+        "midi_number": 68,
+        "frequency": 415.3,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 66.75
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 67.0
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 67.125
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 67.375
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 67.5
+    },
+    {
+        "note": "C4",
+        "midi_number": 60,
+        "frequency": 261.63,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 67.75
+    },
+    {
+        "note": "B4",
+        "midi_number": 71,
+        "frequency": 493.88,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 68.0
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 68.0
+    },
+    {
+        "note": "A5",
+        "midi_number": 81,
+        "frequency": 880.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 68.1667
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 68.1667
+    },
+    {
+        "note": "A5",
+        "midi_number": 81,
+        "frequency": 880.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 68.3333
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 68.3333
+    },
+    {
+        "note": "A5",
+        "midi_number": 81,
+        "frequency": 880.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 68.5
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 68.5
+    },
+    {
+        "note": "G5",
+        "midi_number": 79,
+        "frequency": 783.99,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 68.6667
+    },
+    {
+        "note": "B4",
+        "midi_number": 71,
+        "frequency": 493.88,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 68.6667
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 68.8333
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 69.0
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 69.125
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 69.375
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 69.5
+    },
+    {
+        "note": "C4",
+        "midi_number": 60,
+        "frequency": 261.63,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 69.75
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 70.0
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 70.125
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 70.375
+    },
+    {
+        "note": "G#4",
+        "midi_number": 68,
+        "frequency": 415.3,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 70.75
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 71.0
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 71.125
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 71.375
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 71.5
+    },
+    {
+        "note": "C4",
+        "midi_number": 60,
+        "frequency": 261.63,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 71.75
+    },
+    {
+        "note": "B4",
+        "midi_number": 71,
+        "frequency": 493.88,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 72.0
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 72.0
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 72.125
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 72.125
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 72.375
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 72.375
+    },
+    {
+        "note": "F5",
+        "midi_number": 77,
+        "frequency": 698.46,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 72.5
+    },
+    {
+        "note": "A4",
+        "midi_number": 69,
+        "frequency": 440.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 72.5
+    },
+    {
+        "note": "E5",
+        "midi_number": 76,
+        "frequency": 659.26,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 72.6667
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 72.6667
+    },
+    {
+        "note": "D5",
+        "midi_number": 74,
+        "frequency": 587.33,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 72.8333
+    },
+    {
+        "note": "F4",
+        "midi_number": 65,
+        "frequency": 349.23,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.1656,
+        "channel": 0,
+        "start_time": 72.8333
+    },
+    {
+        "note": "C5",
+        "midi_number": 72,
+        "frequency": 523.25,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 73.0
+    },
+    {
+        "note": "E4",
+        "midi_number": 64,
+        "frequency": 329.63,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 73.0
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 73.125
+    },
+    {
+        "note": "G4",
+        "midi_number": 67,
+        "frequency": 392.0,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.124,
+        "channel": 0,
+        "start_time": 73.375
+    },
+    {
+        "note": "C4",
+        "midi_number": 60,
+        "frequency": 261.63,
+        "velocity": 80,
+        "amplitude_norm": 0.63,
+        "duration": 0.249,
+        "channel": 0,
+        "start_time": 73.5
+    }
+]
